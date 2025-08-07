@@ -1,4 +1,4 @@
-# Cozy Cafe Landing Page ☕
+# Vishwa's Cafe Landing Page ☕
 
 A simple and cozy responsive landing page for a fictional cafe.
 
